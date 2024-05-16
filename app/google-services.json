@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411435247120",
+    "project_id": "bookstore-94e55",
+    "storage_bucket": "bookstore-94e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411435247120:android:755e6257ab1920b0ea4c95",
+        "android_client_info": {
+          "package_name": "com.varsha.bookstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoJItidcTn3SoCuUILGChuPKtoQiSkEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
